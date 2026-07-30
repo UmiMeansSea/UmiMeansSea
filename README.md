@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aniket Karjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Computer Science Graduate & ML Practitioner | Target: Master's in AI / Data Science</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umimeanssea" alt="umimeanssea" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- I am a software engineer specializing in data science, machine learning pipelines, and full-stack architecture. I focus on building end-to-end applications, from engineering robust backend PostgreSQL schemas to deploying Retrieval-Augmented Generation (RAG) systems.
 
-- Made a website: [21st Romanticists](https://21stromanticists.wordpress.com)
-
-- 📫 How to reach me **anikketkarjee0210@gmail.com**
+- My portfolio website: [21st Romanticists](https://21stromanticists.wordpress.com)
+*  **Currently working on:** A local RAG pipeline using ChromaDB and the Gemini API for dynamic language tutoring.
+*  **Currently exploring:** Advanced predictive modeling, optimization algorithms, and low-latency ML evaluation.
+*  **Fact:** I am actively studying French (A2) and serve as the Vice President of my university's French Club!
+-  How to reach me **anikketkarjee0210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
