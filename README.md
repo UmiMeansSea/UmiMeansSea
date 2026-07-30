@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Karjee</h1>
 <h3 align="center">Computer Science Graduate & ML Practitioner | Target: Master's in AI / Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umimeanssea" alt="umimeanssea" /></a> </p>
 
 - I am a software engineer specializing in data science, machine learning pipelines, and full-stack architecture. I focus on building end-to-end applications, from engineering robust backend PostgreSQL schemas to deploying Retrieval-Augmented Generation (RAG) systems.
 
